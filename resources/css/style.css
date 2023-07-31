@@ -1,0 +1,13 @@
+*{
+    background-color: white;
+}
+
+header {
+    height: 64px;
+    position: fixed;
+}
+
+.logo {
+    margin-left: 25px;
+    height: 32px;
+}
