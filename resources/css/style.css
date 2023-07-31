@@ -3,11 +3,19 @@
 }
 
 header {
-    height: 64px;
-    position: fixed;
-}
+    border-bottom: 1px grey;
+    height: 4rem;
+  }
 
 .logo {
-    margin-left: 25px;
-    height: 32px;
+    margin-left: 1.5625rem;
+    height: 2rem;
+}
+
+link--cta{
+    margin-left: 1rem;
+}
+
+@media screen {max-width;
+    
 }
