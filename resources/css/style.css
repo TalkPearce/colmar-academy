@@ -143,3 +143,36 @@ nav a {
 .news-left-info h2,p {
     padding: 2%
 }
+
+.news-left-info p {
+    font-size: 80%
+}
+
+/***** News right ******/
+
+.news-right {
+    display: flex;
+    flex-direction: coolumn;
+}
+
+news-right img {
+    width: 10rem;
+}
+
+.news-right h4 {
+    font-size: 140%
+}
+
+.news-right button {
+    background: none;
+    border: 0;
+}
+
+.news-right a{
+    text-decoration: none;
+}
+
+.orientation, .campus, .huest {
+    display: flex;
+    
+}
