@@ -1,0 +1,39 @@
+
+3. add the at media to the html
+
+4. add the at media to the cs
+
+5. git add . and commit with message that i've completed the desktop banner
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width initial-scale="1">
+    <meta charset="UTF-8">
+    <meta https=-equiv="X-UA-Compatible" content="ie-edge">
+    <link rel="stylesheet" href="./resources/css/style.css" type="text/css">
+</head>
+    <header>
+        <nav class="desktop--cta">
+        <img class="logo--cta" src="file:///C:/Users/talkp/colmar-academy/resources/images/ic-logo.svg">>
+        <ul>    
+            <li><a href = "#">Online</a>
+            <li><a href = "#">On Campus</a>
+            <a = "#">For companies</a>
+            <a = "#">Sign in</a>
+        </ul>
+        </nav>
+        <nav class="mobile">
+            <img src="">
+            <img src="">
+            <img src="">
+            <img src="">
+        </nav>
+    </header>
+</html>
+
+
+
+
+
+t. find out what sketch is

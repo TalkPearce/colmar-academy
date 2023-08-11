@@ -2,20 +2,30 @@
     background-color: white;
 }
 
+
+
+ /*  Header  */
+ 
 header {
-    border-bottom: 1px grey;
     height: 4rem;
-  }
-
-.logo {
-    margin-left: 1.5625rem;
-    height: 2rem;
+    padding: 0 8%;
+    position: relative;
+    width: 100%;
 }
 
-link--cta{
-    margin-left: 1rem;
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
 }
 
-@media screen {max-width;
-    
+@media only screen and (max-width: 450px) {
+    header .desktop--cta {
+        display: none;
+    }
+
+    header .mobile--cta {
+        display: block;
+        width: 100%;
+    }
 }
